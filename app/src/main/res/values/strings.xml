@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_detail">Movie Detail</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!--<string name="pref_location_label">Location</string>-->
+
+    <!--<string name="pref_location_key" translatable="false">location</string>-->
+
+    <!--<string name="pref_location_default" translatable="false">94043</string>-->
+
+    <!--&lt;!&ndash; Label for metric option in temperature unit preference [CHAR LIMIT=25] &ndash;&gt;-->
+    <!--<string name="pref_units_label_metric">Metric</string>-->
+
+    <!--&lt;!&ndash; Label for imperial option in temperature unit preference [CHAR LIMIT=25] &ndash;&gt;-->
+    <!--<string name="pref_units_label_imperial">Imperial</string>-->
+
+    <!--&lt;!&ndash; Key name for temperature unit preference in SharedPreferences [CHAR LIMIT=NONE] &ndash;&gt;-->
+    <!--<string name="pref_units_key" translatable="false">units</string>-->
+
+    <!--&lt;!&ndash; Value in SharedPreferences for metric temperature unit option [CHAR LIMIT=NONE] &ndash;&gt;-->
+    <!--<string name="pref_units_metric" translatable="false">metric</string>-->
+
+    <!--&lt;!&ndash; Value in SharedPreferences for imperial temperature unit option [CHAR LIMIT=NONE] &ndash;&gt;-->
+    <!--<string name="pref_units_imperial" translatable="false">imperial</string>-->
+
+    <!--<string name="action_map">Map Location</string>-->
+
+
+    <string name="pref_sort_by_key" translatable="false">sort by</string>
+    <string name="pref_most_popular" translatable="false">popularity.desc</string>
+    <string name="pref_highest_rated" translatable="false">highest_rated.desc</string>
+
+    <string name="sort_by">Sort By</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="highest_rated">Highest Rated</string>
+    <string name="Favorites">Favorites</string>
+    
+    <string name="pref_num_of_page_key" translation="false">num page</string>
+    <string name="pref_default_num" translation="false">1</string>
+    <string name="num_of_page">Page Number</string>
+
+</resources>
